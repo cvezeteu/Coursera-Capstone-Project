@@ -1,4 +1,4 @@
-## Lody w Warszawie – Geospatial data analysis of ice cream shops in Warsaw
+## Lody w Warszawie – Geospatial data analysis of ice cream venues in Warsaw
 
 ### Description
 
