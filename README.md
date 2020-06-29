@@ -7,9 +7,9 @@ As average temperatures rise on an yearly basis in Warsaw, selling ice cream is 
 Through this project, I intend to help such entrepreneurs make the right decision when it comes to choosing the location to open their shop using **geospatial data visualisation** such as **choropleth maps** and **KDE (Kernel Density Estimation) heatmaps**. 
 
 ### Screenshots
-![](./img/image1.png)
+![1](./img/image1.png)
 
-![](./img/image2.png)
+![2](./img/image2.png)
 
 ### Status
 *Finished*
